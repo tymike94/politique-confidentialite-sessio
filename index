@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Politique de Confidentialité - Sessio</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: auto; }
+        h1, h2 { color: #333; }
+        strong { color: #333; }
+    </style>
+</head>
+<body>
+    <h1>Politique de Confidentialité pour Sessio</h1>
+    <p><strong>Date d'entrée en vigueur :</strong> 26 août 2025</p>
+
+    <p>Cette politique de confidentialité décrit comment vos informations sont collectées, utilisées et partagées lorsque vous utilisez l'application mobile Sessio (ci-après "l'Application").</p>
+
+    <h2>1. Responsable du traitement</h2>
+    <p>Le responsable du traitement de vos données est <strong>[TON NOM OU PSEUDO]</strong>. Pour toute question, vous pouvez nous contacter à l'adresse suivante : <strong>[TON EMAIL DE CONTACT]</strong>.</p>
+
+    <h2>2. Données que nous collectons</h2>
+    <p>Pour fournir et améliorer l'Application, nous collectons les informations suivantes :</p>
+    <ul>
+        <li><strong>Données fournies par l'utilisateur :</strong>
+            <ul>
+                <li><strong>Informations de compte :</strong> Votre pseudo et votre adresse e-mail, utilisés pour la création et la gestion de votre compte.</li>
+            </ul>
+        </li>
+        <li><strong>Données générées par l'utilisation de l'Application :</strong>
+            <ul>
+                <li><strong>Données d'entraînement :</strong> Programmes, séances complétées, exercices, séries, poids, répétitions, durées et dates.</li>
+                <li><strong>Données de progression :</strong> Records personnels, objectifs, trophées débloqués, niveau et points d'expérience (XP).</li>
+                <li><strong>Données sociales :</strong> Votre liste d'amis et vos appartenances à des équipes au sein de l'application.</li>
+            </ul>
+        </li>
+        <li><strong>Données collectées automatiquement :</strong>
+            <ul>
+                <li><strong>Identifiant d'utilisateur :</strong> Un identifiant unique généré par Firebase Authentication pour sécuriser votre compte.</li>
+                <li><strong>Token de notification push (FCM Token) :</strong> Un identifiant anonyme de votre appareil pour vous envoyer des notifications push, si vous les acceptez.</li>
+            </ul>
+        </li>
+    </ul>
+
+    <h2>3. Comment nous utilisons vos données</h2>
+    <p>Vos données sont utilisées exclusivement pour les finalités suivantes :</p>
+    <ul>
+        <li><strong>Fournir les fonctionnalités de l'Application :</strong> Afficher votre historique, suivre vos records et objectifs, et calculer vos statistiques.</li>
+        <li><strong>Activer les fonctionnalités sociales :</strong> Gérer vos listes d'amis et vos équipes, et vous permettre de partager des informations au sein de la communauté Sessio.</li>
+        <li><strong>Personnaliser votre expérience :</strong> Vous attribuer des trophées et des niveaux en fonction de votre activité.</li>
+        <li><strong>Communiquer avec vous :</strong> Vous envoyer des notifications push (si activées) concernant votre activité, celle de vos amis ou des mises à jour importantes.</li>
+        <li><strong>Sécuriser votre compte :</strong> L'authentification est gérée via les services sécurisés de Google Firebase.</li>
+    </ul>
+
+    <h2>4. Partage des données</h2>
+    <p>Nous ne vendons, n'échangeons et ne partageons pas vos données personnelles avec des tiers. Votre pseudo et certaines de vos statistiques (comme le nombre total de séances) peuvent être visibles par d'autres utilisateurs sur les profils publics, les listes d'amis et les classements d'équipe.</p>
+
+    <h2>5. Sécurité des données</h2>
+    <p>La sécurité de vos données est notre priorité. Toutes les données sont stockées et transitent de manière sécurisée via les services de Google Firebase, qui utilisent des normes de sécurité de pointe.</p>
+
+    <h2>6. Conservation et suppression des données</h2>
+    <p>Vos données sont conservées tant que votre compte est actif. Vous pouvez à tout moment demander la suppression complète de vos données en utilisant la fonctionnalité "Réinitialiser le compte" disponible dans votre profil au sein de l'application. Cette action est irréversible.</p>
+
+    <h2>7. Modifications de cette politique</h2>
+    <p>Nous pouvons mettre à jour cette politique de confidentialité de temps à autre. Nous vous informerons de tout changement en publiant la nouvelle politique sur cette page.</p>
+</body>
+</html>
